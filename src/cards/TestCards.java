@@ -14,7 +14,7 @@ public class TestCards {
             System.out.println(color + " karty: " + setAllColors.get(color));
         }
 
-        
+
         System.out.println("Podaj jezyk PL / EN");
         Scanner scanner = new Scanner(System.in);
         String userChoice = scanner.nextLine();
